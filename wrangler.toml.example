@@ -1,0 +1,10 @@
+name = "ksba-website"
+compatibility_date = "2026-07-21"
+pages_build_output_dir = "dist"
+
+# Cloudflare dashboard에서 D1 데이터베이스를 만든 뒤 아래 값을 입력하세요.
+# Pages Git 연동을 사용할 경우 Settings > Bindings에서도 변수명 DB로 연결해야 합니다.
+[[d1_databases]]
+binding = "DB"
+database_name = "ksba-submissions"
+database_id = "YOUR_D1_DATABASE_ID"

@@ -1,0 +1,16 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7F8F9"/>
+  <path d="M0 550H1200" stroke="#D8DDE2"/>
+  <path d="M80 0V630M240 0V630M400 0V630M560 0V630M720 0V630M880 0V630M1040 0V630" stroke="#E7EAED"/>
+  <path d="M0 110H1200M0 260H1200M0 410H1200" stroke="#E7EAED"/>
+  <g transform="translate(90 120)">
+    <path d="M0 270V95L145 22V270H0Z" stroke="#17191B" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M90 270V0L305 92V270H90Z" stroke="#17191B" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M90 270V168L176 136V270H90Z" fill="#2F4E6E"/>
+  </g>
+  <text x="480" y="245" fill="#17191B" font-family="Arial, sans-serif" font-size="72" font-weight="700">한국공간비즈니스협회</text>
+  <text x="484" y="305" fill="#6B6F76" font-family="Arial, sans-serif" font-size="30">Korea Space Business Association</text>
+  <line x1="484" y1="352" x2="1080" y2="352" stroke="#C9CDD1"/>
+  <text x="484" y="410" fill="#2F4E6E" font-family="Arial, sans-serif" font-size="28" font-weight="700">공간의 기준을 만들고, 신뢰와 거래를 연결합니다.</text>
+  <text x="484" y="457" fill="#6B6F76" font-family="Arial, sans-serif" font-size="22">표준 · 인증 · 교육 · 연구 · 회원협력 · 프로젝트 매칭</text>
+</svg>
